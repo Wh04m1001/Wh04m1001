@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Penetration tester @ Infigo IS - Interested in Windows internals and security research.
+Penetration tester - Interested in Windows internals and security research.
 
 ------
 <p align="center">
